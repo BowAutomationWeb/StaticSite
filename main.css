@@ -1,0 +1,323 @@
+.html,
+.body {
+height: 100%;
+position: absolute;
+color: #1a1a1a;
+text-align: justify;
+padding-bottom: 0px;
+}
+#header {
+
+}
+.header hr {  
+}
+.letterhead {
+	z-index: -1032;
+	position: relative;
+	float: left;
+    height: 50px;
+	width: 100%;
+	margin-top: 20px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+/* <-----PANEL-----> */
+
+.panel-group {
+margin-left: 100px;
+margin-right: 100px;
+}
+.panel-default>.panel-heading {
+    color: white;
+    background-color: #d3223a;
+    border-color: #ddd;
+}
+.modal-body {
+font-size: 14px;
+}
+.btn-lg {
+color: white;
+}
+.btn-primary {
+color: white;
+}
+.btn-group {
+color: #d3223a;
+}
+
+/* <-----NAVBAR-----> */
+
+.navbar {
+margin-bottom: 0;
+}
+.nav-pills {
+	color: #d3223a;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #d3223a;
+}
+.navbar .nav > li > a, .navbar .nav > li.current-menu-item > a, .navbar .nav > li.current-menu-ancestor > a {
+    color: #d3223a;
+}
+.nav
+.navbar-default {
+color: #d3223a;
+background-color: white;
+}
+.nav>li {
+	color: #d3223a;
+}
+#active {
+	color: #d3223a;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #d3223a;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    background-color: #d3223a;
+    color: white;
+}
+.navbar-nav {
+padding: 3px;
+}
+.navbar-brand {
+    position: absolute;
+	z-index: 1032;
+	float: left;
+	padding: 0;
+	margin-left: 2%;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: white;
+    background-color: #d3223a;
+}
+.navbar .nav > li > a, .navbar .nav > li.current-menu-item > a, 
+.navbar .nav > li.current-menu-ancestor > a{
+color: #d3223a;
+}
+.navbar .nav> li.active> a., {
+color: white; 
+}
+.navbar-default {
+	background-color: white;
+	color: #d3223a;
+}
+.navbar-fixed-top {
+	position: absolute;
+	color: #d3223a;
+}
+.navbar-right {
+}
+.navbar-header {
+	margin-bottom: 50px;
+}
+.col-lg-4 {
+font-size: 10px;
+}
+.dropdown-menu {
+	outline-color: #555;
+}
+.dropdown-menu>li>a:hover {
+	color: #d3223a;
+}
+.a.dropdown-toggle {
+	color: #d3223a;
+}
+.li.dropdown.open {
+	color: #d3223a;
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+.html,
+ {
+height: 100%;
+position: absolute;
+}
+.body {
+margin-bottom:180px;
+color: #1a1a1a;
+}
+#body {
+    padding-bottom: 0px;
+    color: #5a5a5a;
+}
+.thumbnail {
+	max-height: 180px;
+	max-width: 180px;
+}
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto 0px;
+  /* Pad bottom by footer height */
+  padding: 0 0 0px;
+}
+
+.thumbnail {
+position: relative;
+z-index: -1032;
+}
+#footer {
+  padding-top: 10px;
+  bottom: 1px;
+  width: 100%;
+  color: #1a1a1a;
+  background-color: white;
+  line-height: 5px !important;
+  position: relative;
+  }
+
+
+#footer a,{
+  color: #1a1a1a;
+  line-height: 15px !important;
+}
+
+#footer hr,{
+  margin: 5px 0 5px;
+  border-top: 1px solid #758a9e;
+  width: 100%;
+}
+
+#footer p {
+  font-size: 12px;
+  color: #1a1a1a;
+  line-height: 20px !important;
+}
+
+.padding-bottom {
+  padding-bottom: 10px;
+}
+
+#footer p.footer-links {
+  font-size: 13px;
+  position: relative;
+  right: 0px; 
+}
+
+#footer p.copyright,
+{
+  font-size: 11px;
+  color: #1a1a1a;
+}
+
+#footer p.copyright,
+#footer p.footer-links,
+#footer .col-lg-2 a,
+#footer .col-lg-3 a,
+#footer .col-lg-4 h2,
+#footer .col-lg-12 h2 {
+  color: #1a1a1a;
+}
+
+#footer .col-lg-2 h4 a,
+#footer .col-lg-3 h4 a,
+#footer .col-lg-4 h2 span,
+#footer .col-lg-12 h2 span {
+  color: #1a1a1a;
+}
+
+.footer-nav {
+  list-style-type: none;
+}
+
+.collapse-left {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.collapse-top {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.glyphicon-alert {
+  margin-right: 5px;
+}
+
+.alert-margin-bottom {
+  margin-bottom: 2em;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+
+#wrap > .container {
+  padding: 10px 0 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+#footer > .container,
+#admin-footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.featurette-divider {
+  margin: 0px 0;
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Remove the edge padding needed for mobile */
+  .marketing {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+
+  }
+  .navbar-wrapper .container {
+background-color: white;
+  }
+  .navbar-wrapper .navbar {
+    padding-left:  0;
+    padding-right: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+  
+  .carousel-caption h1 {
+    font-size: 42px;
+    margin-bottom: 0.3em;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 40px;
+  }
