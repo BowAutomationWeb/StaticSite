@@ -9,6 +9,9 @@ padding-bottom: 0px;
 #header {
 
 }
+.header {
+text-shadow: 2px 2px #FF0000;	
+}
 .header hr {  
 }
 .letterhead {
