@@ -533,6 +533,7 @@ elseif ($word == "Absentee Landlord") { echo "An owner of an interest in income 
 			</div>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 			<script src="http://s215211.gridserver.com/bootstrap.min.js" type="text/javascript"></script>
+			<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=46094762"></script>
 		</div>
 	</body>
 </html>
