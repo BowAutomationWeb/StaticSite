@@ -73,13 +73,13 @@
 	<!-- Home -->				
 								<li><a href="http://s215211.gridserver.com/index.html" title="Home"><b>Home</b></a></li>
 	<!-- Parts and Products -->				
-								<li class="active"><a href="http://s215211.gridserver.com/parts-and-products.html" title="Parts and Products"><font color="#ffffff"><b><u>Parts and Products</u></b></font></a></li>
+								<li><a href="http://s215211.gridserver.com/robot_parts_and_products.php" title="Parts and Products"><b>Parts and Products</b></a></li>
 	<!-- Part Repair -->				
-								<li><a href="http://s215211.gridserver.com/part-repair.html" title="Part Repair"><b>Part Repair</b></a></li>
+								<li><a href="http://s215211.gridserver.com/robot_part_repair.html" title="Part Repair"><b>Part Repair</b></a></li>
 	<!-- Field Service -->				
-								<li><a href="http://s215211.gridserver.com/field-service.html" title="Field Service"><b>Field Service</b></a></li>
+								<li><a href="http://s215211.gridserver.com/robot_service_and_repair.html" title="Field Service"><b>Field Service</b></a></li>
 	<!-- Integration -->				
-								<li><a href="http://s215211.gridserver.com/integration.html" title="Integration"><b>Integration</b></a></li>
+								<li><a href="http://s215211.gridserver.com/robot_integration.html" title="Integration"><b>Integration</b></a></li>
 	<!-- Contact Us -->								
 								<li><a href="http://s215211.gridserver.com/contact-us.html" title="Contact Us"><b>Contact Us</b></a></li>	
 	<!-- FAQs -->								
