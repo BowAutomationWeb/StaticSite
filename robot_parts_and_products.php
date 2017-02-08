@@ -50,6 +50,11 @@
 			@media (min-width: 1200px) {
 			#wrap
 			}
+		h1 {
+			background: linear-gradient(135deg, #d3223a 30%, #ffffff 50%);
+			color: black;
+			padding-left: 3px;
+			}
 	</style>
 <!-- Blocker -->
 <!-- Logo -->			
@@ -94,19 +99,18 @@
 <body>
 <div class="container">
 	<h1>Robot Parts and Products</h1>
-	<hr>
+	<div class="lineSegment"></div>
 	<h2>Complete robot systems, cables, wrists, motors, gearboxes, teach pendants, OEM and preventive maintenance parts and products</h2>
 	<p>Bow Robotics operates in a 15,000 SF facility filled with just about any ABB IRB part or product that you could need.  Our large inventory of robot parts and products range from new to fully refurbished and generally come with a 1 year warranty.</p>
 	<p>Our expertise and partner approach in working with our customers allows us to customize solutions providing the best option(s) for just about any situation.  Whether you are looking to replace or refurbish an entire service line of robots or need a specific part shipped NOW, Bow Robotics is the partner that you need.</p>
 	<p>Want to know more about the parts and products that Bow Robotics can provide? We will be happy to answer all your questions!</p>
 	<p class="text-center"><a class="btn btn-lg btn-primary" href="http://s215211.gridserver.com/contact-us.html" role="button">Contact Us</a></p>
-	<hr>
+	<div class="lineSegment"></div>
 </div>
 <div class="container">
     
 
 			<h2>Product Guide</h2>
-			<hr>
 			
 			<?php
 // define variables and set to empty values
@@ -473,7 +477,7 @@ function test_input($data) {
 		<br>
 		
 	</form>	
-	<hr>
+	<div class="lineSegment"></div>
 	<br>
 		
 <!--Your Input-->

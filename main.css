@@ -329,3 +329,10 @@ background-color: white;
   .featurette-heading {
     margin-top: 40px;
   }
+}
+
+.lineSegment {
+	color: black;
+	background: linear-gradient(1deg, #8f8f8f 20%, #ffffff 70%);
+	height: 3px;
+	}
