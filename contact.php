@@ -1,6 +1,6 @@
 <?php
 
-$from = 'Bow Automation Contact Form <info@bowautomation.com>';
+$from = 'Bow Robotics Contact Form <info@bowautomation.com>';
 $sendTo = 'Info group <d.royce@bowautomation.com>';
 $subject = 'New Message from the website contact form';
 $fields = array('firstname' => 'Name', 'lastname' => 'Last Name', 'phone' => 'Phone', 'company' => 'Company', 'email' => 'Email', 'message' => 'Message'); 
