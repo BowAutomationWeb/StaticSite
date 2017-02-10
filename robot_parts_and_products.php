@@ -56,12 +56,13 @@
 			color: white;
 			padding-left: 3px;
 			font-weight: bold;
+			text-shadow: -2px 0 #000000,0 2px #000000,2px 0 #000000,0 -2px #000000;
 			}
 	</style>
 <!-- Blocker -->
 <!-- Logo -->			
 			<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-			<a href="#" class="navbar-brand"  class="pull-left logo" alt="Bow Robotics"><img src="https://s215211.gridserver.com/Bow-Logo.PNG" style="max-width: 40%;"></a>
+			<a href="#" class="navbar-brand pull-left logo" alt="Bow Robotics"><img class="logo-scaling" src="https://s215211.gridserver.com/Bow-Logo.PNG"></a>
 			<img class="letterhead" src="http://s215211.gridserver.com/Capture.PNG">
 			<div class="container">
 				<div class="navbar-header">
@@ -99,6 +100,9 @@
 
 
 <body>
+<div class="container">
+	<img class="center-block ImageRnd" src="http://s215211.gridserver.com/PartsProducts.jpg" alt="" style="max-width: 50%">
+</div>
 <div class="container">
 	<h1>Robot Parts and Products</h1>
 	<div class="lineSegment"></div>

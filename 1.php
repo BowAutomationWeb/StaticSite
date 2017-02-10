@@ -55,7 +55,7 @@
 <!-- Blocker -->
 <!-- Logo -->			
 			<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-			<a href="#" class="navbar-brand"  class="pull-left logo" alt="Bow Robotics"><img src="https://s215211.gridserver.com/.tools/api/filemanager/index.php?cmd=file&target=l1_ZG9tYWlucy9zMjE1MjExLmdyaWRzZXJ2ZXIuY29tL2h0bWwvQm93LUxvZ28uUE5H&download" style="max-width: 40%;"></a>
+			<a href="#" class="navbar-brand"  class="pull-left logo" alt="Bow Robotics"><img class="logo-scaling" src="https://s215211.gridserver.com/Bow-Logo.PNG"></a>
 			<img class="letterhead" src="http://s215211.gridserver.com/Capture.PNG">
 			<div class="container">
 				<div class="navbar-header">
