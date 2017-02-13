@@ -6,6 +6,9 @@ color: #1a1a1a;
 text-align: justify;
 padding-bottom: 0px;
 }
+p {
+	font-size: larger;
+}
 #header {
 
 }
