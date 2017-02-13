@@ -7,10 +7,10 @@
 <file name="privacy.html" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131311469580000000" remote="131312023200000000" Dst="1" />
 <file name="faqs.html" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131312138660000000" remote="131312032800000000" Dst="1" />
 <file name="robot_integration.html" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131312308560000000" remote="131312202600000000" Dst="1" />
-<file name="robot_part_repair.html" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131312299600000000" remote="131312193600000000" Dst="1" />
-<file name="robot_parts_and_products.php" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131312299100000000" remote="131312193000000000" Dst="1" />
+<file name="robot_part_repair.html" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131314722700000000" remote="131314616400000000" Dst="1" />
+<file name="robot_parts_and_products.php" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131314712640000000" remote="131314606800000000" Dst="1" />
 <file name="robot_service_and_repair.html" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131312306980000000" remote="131312200800000000" Dst="1" />
-<file name="main.css" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131312307020000000" remote="131312200800000000" Dst="1" />
+<file name="main.css" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131314723480000000" remote="131314617600000000" Dst="1" />
 <file name="1.php" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131311469460000000" remote="131312023200000000" Dst="1" />
 <file name="20661124_Moment.jpg" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131135917380000000" remote="131309604600000000" Dst="1" />
 <file name="carousel.css" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131310645760000000" remote="131310539400000000" Dst="1" />
@@ -24,8 +24,6 @@
 <file name="ProgrammingText.gif" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131287140060000000" remote="131309605200000000" Dst="1" />
 <file name="ProgrammingTextAlt.gif" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131287243360000000" remote="131309605200000000" Dst="1" />
 <file name="robot.jpg" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131286435220000000" remote="131309605200000000" Dst="1" />
-<file name="stock-photo-76343189-robots-welding-in-a-production-line.jpg" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131135806240000000" remote="131309605200000000" Dst="1" />
-<file name="stock-photo-8601877-factory-manufacturing.jpg" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131135806240000000" remote="131309605200000000" Dst="1" />
 <file name="teach_pendant.JPG" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131286451280000000" remote="131309605200000000" Dst="1" />
 <file name="why_bow_automation.PNG" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131286435220000000" remote="131309605200000000" Dst="1" />
 <file name="wrist.jpg" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131286435220000000" remote="131309605200000000" Dst="1" />
@@ -42,4 +40,5 @@
 <file name="DamagedRobot.JPG" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131311474860000000" remote="131312167800000000" Dst="1" />
 <file name="PartsProducts.jpg" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131141941780000000" remote="131312193000000000" Dst="1" />
 <file name="TeachPendantBG.png" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131311445340000000" remote="131312195400000000" Dst="1" />
+<file name="bootstrap.min.css" server="s215211.gridserver.com/domains/s215211.gridserver.com/html/" local="131314722680000000" remote="131314616400000000" Dst="1" />
 </dwsync>
